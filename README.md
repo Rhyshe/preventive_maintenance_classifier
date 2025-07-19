@@ -18,7 +18,7 @@ Build a classification model that predicts machine failure with high accuracy.
   - Performed hyperparameter tuning with GridSearchCV.
   - Evaluated model using accuracy, F1-score, confusion matrix, and cross-validation.
 
-## 🎯Results
+## Results
 - **Best Test Accuracy:** ~98.8%
 - **Cross-Validation Accuracy:** ~98.75%
 - **Balanced Precision and Recall across classes.**
